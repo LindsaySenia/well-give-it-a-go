@@ -16,7 +16,7 @@ h3 {
 }
   
 header {
-    background: rgba(0, 0, 0, 0.5);
+    background: rgba(117, 49, 136, 0.5);
     height: 80px;
     position: fixed;
     top: 0;
@@ -50,16 +50,16 @@ section {
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
-    color: white
+    color: rgb(154, 230, 110);
 }
 
 aside {
-    background: rgba(0,0,0,0.75);
+    background: rgba(44, 39, 46,0.75);
     height: 100%;
     width: 33%;
 }
 
 aside h3 {
     font-size: 3rem;
-    color: rgb(255, 187, 0);
+    color: rgb(229, 153, 52);
 }
